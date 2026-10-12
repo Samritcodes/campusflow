@@ -150,10 +150,10 @@ CampusFlow enforces strict role-based access control (RBAC) across 4 user tiers:
 ├───────────────────┬──────────────┬─────────────┬─────────────┬─────────┤
 │ Capability        │ Student      │ Organizer   │ Dept Mgr    │ Admin   │
 ├───────────────────┼──────────────┼─────────────┼─────────────┼─────────┤
-│ Browse & For You  │      ✅      │     ✅      │     ✅      │   ✅    │
+│ Browse & For You  │      ✅      │     ✅     │     ✅      │   ✅   │
 │ Register & Passes │      ✅      │     —       │     —       │   —     │
 │ Teammate Finder   │      ✅      │     —       │     —       │   —     │
-│ Personal Calendar │      ✅      │     ✅      │     ✅      │   ✅    │
+│ Personal Calendar │      ✅      │     ✅     │     ✅      │   ✅    │
 │ Create / Edit Evt │      —       │     ✅      │     ✅      │   ✅    │
 │ Entry Desk Verify │      —       │     ✅      │     ✅      │   ✅    │
 │ Award Podium Cert │      —       │     ✅      │     ✅      │   ✅    │
